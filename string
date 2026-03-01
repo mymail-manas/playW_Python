@@ -1,0 +1,13 @@
+text= "Testing String"
+print(text.upper())
+
+text="TESTING this"
+print(text.replace("TESTING","Check"))
+
+print(text.lower())
+
+name="Akshay"
+age=25
+message=f"My name is {name} and  age is {age}"
+print(message)
+

@@ -1,0 +1,8 @@
+num="1233776"
+count=1
+for i in num:
+    count=i
+
+print("No of Digits are",count)
+count=int(count)+1
+print(count)

@@ -24,7 +24,7 @@ print(Employee)
 merge_dict=Employee|age_dict
 print(merge_dict)
 
-#Count Char
+#Count Characters
 print(names.count("Bob"))
 
 
